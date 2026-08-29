@@ -1,0 +1,8 @@
+name = "delta-api"
+main = "worker.js"
+compatibility_date = "2026-08-29"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "delta"
+database_id = "fd1a8624-e4e4-46d7-a187-849d4ce4d4d1"
